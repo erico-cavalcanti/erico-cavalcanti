@@ -1,9 +1,28 @@
 
-# Hey you, hello! I'm Érico Cavalcanti. Welcome!
+# Hey, Ola! Sou o Érico e este é meu espaço GitHub, seja bem-vindo!
 
-- 🔭 I’m currently working on a 100 Days of coding with Python and R.
-- 🌱 I’m currently learning Data Science and Project Management.
-- 📫 Reach me out on my twitter: twitter.com/EVCavalcanti
+### Quem sou?
+
+- Engenheiro químico não tão praticante.
+- Casado com a Carol e morador da gigante Cosmóplis-SP.
+- Trabalho na Petrobras desde 2006 para colocar comida na mesa e ração nos potes.
+- Pontepretano desde de sempre.
+- Curto trabalhar com Gerenciamento de Projetos
+- Atualmente estudo Estatística e MBA de DS e Analytics (quero migrar de carreira)
+- Meus hobbies: Viagem, cerveja, fotografia e desenho (esses dois últimos estão bem enferrujados)
+
+### O que faço aqui?
+<br>
+No momento:
+- 🔭 Desafio de 100 Dias para aprender Python e R com foco em Data Science
+<br>
+No futuro:
+- 🥇 Portfólio de projetos em Data Science
+
+### Contato
+<br>
+- Linkedin.com/in/EricoCavalcanti
+- Twitter.com/EVCavalcanti
 
 ---
 <center>
@@ -32,11 +51,3 @@
 <a href="https://instagram.com/erico_cavalcanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="erico-cavalcanti" height="20" width="20" /></a>
 <a href="https://medium.com/erico-cavalcanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="erico-cavalcanti" height="20" width="20" /></a>
 </p>
-
-<p>
-README.md inspired by <a href="https://github.com/rochacbruno" target="blank">Bruno Rocha</a> Thank you Bruno!
-</p>
-
-
-
-
