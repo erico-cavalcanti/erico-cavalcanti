@@ -14,7 +14,7 @@
 ### O que faço aqui?
 <br>
 No momento:
-- 🔭 Desafio de 100 Dias para aprender Python e R com foco em Data Science
+- 🔭 Reconfigurando o meu Github para um formato que me atenda.
 <br>
 No futuro:
 - 🥇 Portfólio de projetos em Data Science
