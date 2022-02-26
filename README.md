@@ -11,14 +11,12 @@
 - Hobbies: Viagem, cerveja, fotografia e desenho (esses dois últimos estão bem enferrujados)
 
 ### O que faço aqui?
-<br>
 
-- 🔭 Compartilho meus estudo pessoais na área de programação
-<br>
-- 🥇 Portfólio de projetos em Data Science
+-  Compartilho meus estudo pessoais na área de programação
+-  Portfólio de projetos em Data Science
 
 ### Contato
-<br>
+
 - Linkedin.com/in/EricoCavalcanti
 - Twitter.com/EVCavalcanti
 
