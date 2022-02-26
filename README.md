@@ -17,6 +17,7 @@
 
 ### Contato
 
+- erico.cavalcanti@gmail.com
 - Linkedin.com/in/EricoCavalcanti
 - Twitter.com/EVCavalcanti
 
