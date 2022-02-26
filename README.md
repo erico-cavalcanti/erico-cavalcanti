@@ -18,8 +18,8 @@
 ### Contato
 
 - erico.cavalcanti@gmail.com
-- Linkedin.com/in/EricoCavalcanti
-- Twitter.com/EVCavalcanti
+- https://linkedin.com/in/EricoCavalcanti
+- https://twitter.com/EVCavalcanti
 
 ---
 <center>
