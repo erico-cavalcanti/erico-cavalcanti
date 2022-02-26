@@ -1,22 +1,20 @@
 
-# Hey, Ola! Sou o Érico e este é meu espaço GitHub, seja bem-vindo!
+# Olá! Sou o Érico e este é meu espaço GitHub, seja bem-vindo!
 
 ### Quem sou?
 
-- Engenheiro químico não tão praticante.
-- Casado com a Carol e morador da gigante Cosmóplis-SP.
-- Trabalho na Petrobras desde 2006 para colocar comida na mesa e ração nos potes.
+- Casado com a Carol
+- Engenheiro Químico pela UNICAMP
 - Pontepretano desde de sempre.
-- Curto trabalhar com Gerenciamento de Projetos
-- Atualmente estudo Estatística e MBA de DS e Analytics (quero migrar de carreira)
-- Meus hobbies: Viagem, cerveja, fotografia e desenho (esses dois últimos estão bem enferrujados)
+- Gerente de Projetos
+- Curso Estatística e MBA de Data Science e Analytics
+- Hobbies: Viagem, cerveja, fotografia e desenho (esses dois últimos estão bem enferrujados)
 
 ### O que faço aqui?
 <br>
-No momento:
-- 🔭 Reconfigurando o meu Github para um formato que me atenda.
+
+- 🔭 Compartilho meus estudo pessoais na área de programação
 <br>
-No futuro:
 - 🥇 Portfólio de projetos em Data Science
 
 ### Contato
