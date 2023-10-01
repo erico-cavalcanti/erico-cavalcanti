@@ -4,10 +4,8 @@
 ### Quem sou?
 
 - Casado com a Carol
-- Engenheiro Químico pela UNICAMP
+- Engenheiro Químico, Cientista de Dados, Gerente de Projetos, Operador de refinaria
 - Pontepretano desde de sempre.
-- Gerente de Projetos
-- Curso Estatística e MBA de Data Science e Analytics
 - Hobbies: Viagem, cerveja, fotografia e desenho (esses dois últimos estão bem enferrujados)
 
 ### O que faço aqui?
@@ -19,8 +17,6 @@
 
 - erico.cavalcanti@gmail.com
 - https://linkedin.com/in/EricoCavalcanti
-- https://twitter.com/EVCavalcanti
-
 ---
 <center>
   <table>
