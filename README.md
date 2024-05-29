@@ -1,13 +1,26 @@
 
-# Hello there! I'm Érico Cavalcanti! <img src="img\Hi.gif" width="29px">
-## Welcome to my Github
+# Hello there! I'm Érico! <img src="img\Hi.gif" width="29px">
 
-### Quem sou?
+<img src="img\banner.png" alt="banner that says Érico Cavalcanti - Data science powred by (a lot of) coffee">
 
-- Casado com a Carol
-- Engenheiro Químico, Cientista de Dados, Gerente de Projetos, Operador de refinaria
-- Pontepretano desde de sempre.
-- Hobbies: Viagem, cerveja, fotografia e desenho (esses dois últimos estão bem enferrujados)
+<left>
+  <table>
+    <tr>
+        <td><p align="left"> Currently trading my data science skills for paychecks at Petrobras.</p></td>
+        <td><p align="right"><img src="https://komarev.com/ghpvc/?username=erico-cavalcanti" alt="erico-cavalcanti"/> 
+</p></td>
+    </tr>   
+  </table>
+</left> 
+
+---
+### Who am I?
+- 🔰 From Brazil with an 'S' not a 'Z'!
+- 💍 Married to Carol. No kids ~~yet~~.
+- ⚽ Supporter of Ponte Preta.
+- 🏠 Living in a small village in the Brazilian countryside named Cosmópolis (not the movie).
+- 🐶 Enjoying pets, plants, woodworking, and a lot of grass to trim.
+- 🏖️ Hobbies include traveling, beer, Brazilian BBQ, rock 'n' roll, and dance music from the 80s, 90s, and 2000s. (Yes, I'm kind of old!)
 
 ### O que faço aqui?
 
@@ -22,26 +35,15 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erico-cavalcanti&hide=html&layout=compact&show_icons=true&theme=box" /></td>
-        <td><img width="340px" align="left" src="https://github-readme-stats.vercel.app/api?username=erico-cavalcanti&show_icons=true&theme=box" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erico-cavalcanti&hide=html&layout=compact&show_icons=true&theme=radical" /></td>
+        <td><img width="525pxpx" align="left" src="https://github-readme-stats.vercel.app/api?username=erico-cavalcanti&show_icons=true&theme=radical" /></td>
     </tr>   
   </table>
 </center>  
 
 ---
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=erico-cavalcanti" alt="erico-cavalcanti"/> </p>
-
-<h2 align='left'>Github Points:</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=erico-cavalcanti&theme=flat" alt="erico-cavalcanti points"/>
-</p>
-
----
-
-<p align="center">
-<a href="https://twitter.com/EVCavalcanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="erico-cavalcanti" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ericocavalcanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erico-cavalcanti" height="20" width="20" /></a>
-<a href="https://instagram.com/erico_cavalcanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="erico-cavalcanti" height="20" width="20" /></a>
-<a href="https://medium.com/erico-cavalcanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="erico-cavalcanti" height="20" width="20" /></a>
+<a href="https://erico-cavalcanti.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="erico-cavalcanti" height="20" width="20" /></a>
 </p>
+
