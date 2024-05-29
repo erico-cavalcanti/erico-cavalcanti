@@ -1,5 +1,6 @@
 
-# Olá! Sou o Érico e este é meu espaço GitHub, seja bem-vindo!
+# Hello there! I'm Érico Cavalcanti! <img src="img\Hi.gif" width="29px">
+## Welcome to my Github
 
 ### Quem sou?
 
