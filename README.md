@@ -15,7 +15,7 @@
 
 ---
 ### Who am I?
-- 🔰 From Brazil with an 'S' not a 'Z'!
+- 🔰 From Brazil with a 'S' not a 'Z'!
 - 💍 Married to Carol. No kids ~~yet~~.
 - ⚽ Supporter of Ponte Preta.
 - 🏠 Living in a small village in the Brazilian countryside named Cosmópolis (not the movie).
